@@ -3,5 +3,5 @@
 - When composing a view that includes text, it’s important to define other elements relative to that text, like a symbol or padding, so the view adapts to the text’s size.
 - The symbol and padding can adapt as the text content changes for localizations, Dynamic Type sizes, or to display a different phrase.
 Project files
-- Download the Project : 
+- Download the Project : https://github.com/abhisekprusty977/scaling-views-to-complement-text
 
